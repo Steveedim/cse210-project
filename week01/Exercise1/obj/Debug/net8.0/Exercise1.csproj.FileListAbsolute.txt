@@ -1,0 +1,15 @@
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.exe
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.deps.json
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.runtimeconfig.json
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.dll
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.pdb
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfo.cs
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.sourcelink.json
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.dll
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\refint\Exercise1.dll
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.pdb
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.genruntimeconfig.cache
+C:\Users\GATHERING P\Desktop\cse210\cse210-project\week01\Exercise1\obj\Debug\net8.0\ref\Exercise1.dll
