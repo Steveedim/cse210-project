@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using System;
 
 class Program
@@ -13,3 +14,5 @@ class Program
         Console.WriteLine($"Your name is {last}, {first} {last}.");
     }
 }
+=======
+>>>>>>> fccb494 (first commit)
