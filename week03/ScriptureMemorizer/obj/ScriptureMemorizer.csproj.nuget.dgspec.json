@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {}
+    "c:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {
+    "c:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+        "projectUniqueName": "c:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
         "projectName": "ScriptureMemorizer",
-        "projectPath": "C:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
+        "projectPath": "c:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\ScriptureMemorizer.csproj",
         "packagesPath": "C:\\Users\\GATHERING P\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\obj\\",
+        "outputPath": "c:\\Users\\GATHERING P\\Desktop\\cse210\\cse210-project\\week03\\ScriptureMemorizer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
